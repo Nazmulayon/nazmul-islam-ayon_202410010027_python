@@ -1,0 +1,24 @@
+WEEK 7 - PYTHON LAB TUTORIAL 7
+
+Name: Nazmul Islam Ayon
+Student ID: 202410010027
+
+Files:
+1. main.py
+2. food_order.py
+3. test_food_order.py
+
+Description:
+- main.py gets the price and quantity from the user.
+- food_order.py calculates the total payment and validates the input.
+- test_food_order.py contains pytest test cases.
+
+Testing:
+Command used:
+pytest
+
+Result:
+5 tests passed successfully.
+
+GitHub:
+The project was committed and pushed to GitHub.
